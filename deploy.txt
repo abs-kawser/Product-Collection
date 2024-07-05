@@ -1,0 +1,13 @@
+1 . Vercel 
+-Vercel CLI
+ 
+ install process 
+ 1: npm  i -g vercel
+ 2: vercel -v (for check insatall or not )
+ 3:vercel login
+ 4:vercel --prod
+
+
+-Github
+
+https://product-collection-ten.vercel.app/
